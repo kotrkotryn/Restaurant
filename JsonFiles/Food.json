@@ -1,0 +1,24 @@
+{
+  "Meals": [
+    {
+      "Name": "roastedGiantAntsWithChocholate",
+      "Price": "5.25"
+    },
+    {
+      "Name": "octopusEyesSoup",
+      "Price": "11.55"
+    },
+    {
+      "Name": "hogsLiverpoolPot",
+      "Price": "9.99"
+    },
+    {
+      "Name": "treewartsSnackCocktail",
+      "Price": "4.99"
+    },
+    {
+      "Name": "luckySnailsSausageBunch",
+      "Price": "6.50"
+    }
+  ]
+}

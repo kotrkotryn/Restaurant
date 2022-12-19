@@ -1,0 +1,24 @@
+{
+  "Drinks": [
+    {
+      "Name": "floralFoam",
+      "Price": "6.00"
+    },
+    {
+      "Name": "snailsNailsLiquor",
+      "Price": "12.00"
+    },
+    {
+      "Name": "holyBlood",
+      "Price": "10.50"
+    },
+    {
+      "Name": "rockSaltPunch",
+      "Price": "4.00"
+    },
+    {
+      "Name": "caviarJuice",
+      "Price": "6.50"
+    }
+  ]
+}
